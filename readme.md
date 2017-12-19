@@ -1,6 +1,6 @@
 # HTTP ping
 
-Small microservice to do a HTTP `GET` request to the specified url at the specified interval.
+Small microservice to do a HTTP `GET` request to the specified url at an interval.
 
 ## Usage
 
